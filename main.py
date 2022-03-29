@@ -1,4 +1,4 @@
-import db
+from replit import db
 
 start = input('New user: (N)\nReturning user: (R)\n')
 if start == 'N':
